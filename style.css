@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #1d3557;
+}
+
+#clock{
+    width: 900px;
+    margin: 150px;
+    text-align: center;
+    font-size: 170px;
+    color: #f1faee;
+}
